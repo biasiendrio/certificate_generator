@@ -1,2 +1,2 @@
-# certificate_generator
+# Certificate Generator
 System to generate certificates utilizing command line tools.
