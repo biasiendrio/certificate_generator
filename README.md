@@ -27,3 +27,6 @@ In addition to the prerequisites above you will need a CSV file to run the gener
 Example: 
 > ./main file.csv hmac-key
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
