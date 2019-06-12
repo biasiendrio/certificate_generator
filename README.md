@@ -25,7 +25,7 @@ For your **Dropbox** account you will need to the **sharelink** command, use the
 In addition to the prerequisites above you will need a CSV file to run the generator, the CSV most have **name**, **family name** and **e-mail** field.
 
 Example: 
-> ./main file.csv hmac-key
+> ./main <file.csv> <hmac-key>
 
 ## License
 
