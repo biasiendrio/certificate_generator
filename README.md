@@ -27,10 +27,3 @@ In addition to the prerequisites above you will need a CSV file to run the gener
 Example: 
 > ./main file.csv hmac-key
 
-
-## To do list:
-	- [ ] Send the certificates to e-mail
-	- [ ] Comment the scripts
-	- [ ] Make the verify qr-code
-	- [ ] Make the infos of the event optional
-	- [ ] Fix somethings on the template
