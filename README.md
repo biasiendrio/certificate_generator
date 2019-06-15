@@ -22,13 +22,11 @@ For your **Dropbox** account you will need to the **sharelink** command, use the
 [sharelink on dropbox](https://askubuntu.com/questions/777878/how-to-integrate-dropbox-in-thunar/777879#777879).
 
 ## How to run
-In addition to the prerequisites above you will need a CSV file to run the generator, the CSV most have **name**, **family name** and **e-mail** field.
+In addition to the prerequisites above you will need a CSV file to run the generator, the CSV most have **name**, **family name** and **e-mail** field (Don't forget to make sure that all **.sh** files have execute permissions:```chmod +x <file>.sh```)
 
 Example: 
-> ./main <file.csv>\<hmac-key>
+> ./main.sh <file.csv> \<hmac-key>
  
-Obs: Do not forgout the chmod !!
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
