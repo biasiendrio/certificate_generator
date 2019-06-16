@@ -13,7 +13,7 @@ fi
 
 rm temp_dir -r
 
-# ./lib/send_email.sh $1
+./lib/send_email.sh $1
 
 echo "Done"
 
